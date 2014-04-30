@@ -39,5 +39,6 @@ executable flow
     -- , xml2json
     , process
     , strict
+    , parsec
     -- , regex-posix
 
